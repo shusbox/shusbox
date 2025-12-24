@@ -1,3 +1,3 @@
 ## Hi 👋
 
-![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/shusbox/shusbox/blob/output/github-contribution-grid-snake.svg)
